@@ -1,4 +1,4 @@
-                                  # 🟢💬 WHATSAPP CLONE
+# 🟢💬 WHATSAPP CLONE
 
 
 This repository contains a **WhatsApp Clone UI** built using **Flutter**. The application aims to mimic the user interface of WhatsApp, focusing on key features like chat functionality using **WebSocket** and implementing camera and video sections.
